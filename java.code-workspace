@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../KMS.Digital.Online.Activation.Suite.v7"
+		},
+		{
+			"path": "../newJava"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "newJava"
+	}
+}
